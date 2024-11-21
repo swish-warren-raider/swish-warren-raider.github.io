@@ -120,7 +120,7 @@ comments:
   giscus:
     repo: swish-warren-raider/swr-giscus # <gh-username>/<repo>
     repo_id: 
-    category:
+    category: posts
     category_id:
     mapping: # optional, default to 'pathname'
     strict: # optional, default to '0'
